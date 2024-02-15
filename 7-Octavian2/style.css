@@ -462,7 +462,7 @@ h6 {
 
 .contact {
   padding: 150px 0;
-  background: url("../images/contact-bg.png") no-repeat center/cover;
+  background: url("./images/contact-bg.png") no-repeat center/cover;
 }
 .contact-container {
   max-width: 600px;
