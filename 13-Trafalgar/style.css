@@ -317,7 +317,7 @@ body {
 
 .service {
   margin-bottom: 222px;
-  background: url("../images/bg1.png") no-repeat -100px center/auto;
+  background: url("./images/bg1.png") no-repeat -100px center/auto;
   --columns: 3;
 }
 .service-dots {
@@ -582,7 +582,7 @@ body {
 
 .article {
   margin-bottom: 200px;
-  background: url("../images/bg2.png") no-repeat right center/auto;
+  background: url("./images/bg2.png") no-repeat right center/auto;
 }
 .article-container {
   position: relative;
